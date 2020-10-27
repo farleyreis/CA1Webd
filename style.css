@@ -1,0 +1,117 @@
+
+
+body{
+    background: #ffffff;
+    border-radius: 0%;
+    color: #898989;
+    font-family: 'Poppins', helvetica;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: px;
+    letter-spacing: 0.02em;
+
+    margin: 0 auto;
+    padding: 0;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+    align-items: center;
+    padding-top: 0;
+    padding-left: 0;
+    
+}
+
+
+.logo{
+    color: #f7f7f7;
+    text-transform: uppercase;
+    font-family: 'Poppins';
+    font-size: 20px;
+
+
+}
+.h3{
+  align-items: center;
+}
+
+#footer {
+    background: #f7f7f7;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  #footer .socials-media {
+    width: 100%;
+  }
+  
+  #footer .socials-media ul {
+    display: inline-block;
+    float: none;
+    margin: 0 0 20px 0;
+  }
+  
+  #footer .socials-media ul li {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  #footer .socials-media ul li a {
+    
+    font-size: 24px;
+    color: #999;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+    background: transparent;
+    text-transform: uppercase;
+    transition: all 0.5s ease-in-out 0s;
+  }
+  
+  #footer .socials-media ul li a:hover {
+    color: #b8a07e;
+    transition: all 0.5s ease-in-out 0s;
+  }
+  
+  #footer p {
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+    margin-top: 0;
+    text-transform: uppercase;
+  }
+  table{
+    padding: 2%;
+  }
+
+form{
+  
+  padding: 2%;
+  align-items: center;
+  width: 100%;
+}
+.h2{
+
+  background-color: aqua;
+}
+#about{
+  align-items: center;
+  font-size: medium;
+  padding: 0%;
+
+}
+#main{
+align-items: center;
+box-sizing: border-box;
+}
+
+.gitHP {
+  
+
+  
+}
+ion-icon {
+  color:black;
+  --ionicon-stroke-weight: 60px;
+
+   
+}
