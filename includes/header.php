@@ -35,7 +35,7 @@
         <div class="row justify-content-between">
           <ul class="gitHP">
             <p>
-              <li>This is the link for my gitPod project<a href="http://github.io/https://github.com/farleyreis/PHP-project-1">
+              <li>This is the link for my gitPod project<a href="http://github.io/#https://github.com/farleyreis/PHP-project-1">
                   <ion-icon name="logo-github"></ion-icon></i>
                 </a></li>
               <li>This is the link for my github project<a href="https://github.com/farleyreis/PHP-project-1">
